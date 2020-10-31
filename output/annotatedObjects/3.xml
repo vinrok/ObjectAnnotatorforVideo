@@ -1,0 +1,37 @@
+<annotation>
+	<folder>C:/Users/chitr/Downloads/trackingImgLabel-master/output\Annotations</folder>
+	<filename>3.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>False</width>
+		<height>False</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>710</xmin>
+			<ymin>194</ymin>
+			<xmax>25</xmax>
+			<ymax>32</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>801</xmin>
+			<ymin>131</ymin>
+			<xmax>50</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+</annotation>
